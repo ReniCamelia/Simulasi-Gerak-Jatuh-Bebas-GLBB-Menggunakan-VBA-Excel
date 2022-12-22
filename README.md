@@ -1,0 +1,1 @@
+# Simulasi-Gerak-Jatuh-Bebas-GLBB-Menggunakan-VBA-Excel
